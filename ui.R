@@ -5,7 +5,7 @@ library(Cairo)
 fluidPage( 
   
   # Application title.
-  titlePanel("Household's income and Asset owned."),
+  titlePanel("Analysis on Household's income and expenditure."),
   # Sidebar with controls to select a dataset and specify the
   # number of observations to view. The helpText function is
   # also used to include clarifying text. Most notably, the
